@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avinash058
-- 👀 I’m interested in Pythin Full Stack Devleopment
+- 👀 I’m interested in Python Full Stack Devleopment
 - 🌱 I’m currently learning Python Full Stack
 - 📫 How to reach me avinash.2017.lece@anits.edu.in
 
